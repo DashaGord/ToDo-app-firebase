@@ -1,0 +1,60 @@
+.app-add-form {
+    height: 400px;
+    padding: 10px 25px 20px 25px;
+    margin-top: 20px;
+    background: #939878;
+    color: #fff;
+    text-align: center;
+}
+
+.add-form {
+    height: 250px;
+}
+
+.add-form textarea {
+    max-height: 68%;
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.form-control{
+    outline: none;
+    background: #E7E8E3;
+    border-style: solid;
+    border-radius: 11px;
+    box-shadow: -8px 0 30px rgb(66 66 66 / 30%)
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #CF6F49;
+    background: #CF6F49;
+    display: inline-block;
+    padding: 6px 6px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-left: 15px;
+    vertical-align: top;
+}
+.title{
+    outline: none;
+    width: 99%;
+    padding: 5px;
+    font-size: 16px;
+    border-width: 1px;
+    border-color: #624d4d;
+    background: #E7E8E3;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-radius: 11px;
+    box-shadow: -8px 0 30px rgba(66,66,66,.30);
+    text-shadow: 0 0 5px rgba(66,66,66,.0);
+}
+.group-button{
+    float: right;
+    margin: 10px;
+}
+
